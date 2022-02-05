@@ -1,0 +1,16 @@
+body{
+    color: rgb(228, 135, 135) !important;
+}
+.content {
+    background-color: #656cac;
+    padding: 10px 10px 10px 10px;
+}
+th {
+    color: #d66e79 !important;
+}
+td{
+    color: #d6969d !important;
+}
+#title{
+    color: #DB5461;
+}
